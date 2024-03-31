@@ -1,0 +1,40 @@
+{
+  "login": [
+    {
+      "id": "1",
+      "mail": "Electronics",
+      "password": "Explore a wide range of electronic items"
+    },
+    {
+      "id": "2",
+      "name": "Clothing",
+      "description": "Discover trendy clothing for all ages"
+    },
+    {
+      "id": "3",
+      "name": "Home & Garden",
+      "description": "Find everything you need for your home and garden"
+    },
+    {
+      "id": "4",
+      "name": "Books",
+      "description": "Dive into a world of literature"
+    },
+    {
+      "id": "5",
+      "name": "Sports",
+      "description": "Gear up for your favorite sports"
+    },
+    {
+      "id": "6",
+      "name": "Sports-YU",
+      "description": "Gear up for your favorite sports"
+    },
+    {
+      "id": "10",
+      "name": "Lilly",
+      "description": "Explore a wide range of electronic items"
+    }
+  ]
+ 
+}
